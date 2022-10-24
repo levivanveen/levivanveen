@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Levi 👋</h1>
 <h3 align="center">Software Developer</h3>
 
-![Plastic Beach GIF](https://raw.githubusercontent.com/levivanveen/levivanveen/master/plasticBeach.gif)
+<img src="https://raw.githubusercontent.com/levivanveen/levivanveen/main/plasticBeach.gif" alt="Plastic Beach" width="250"/>
 
 - :computer: I’m currently working on **my first react website**
 - :mailbox: How to reach me: **levivanveen2@gmail.com**
