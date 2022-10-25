@@ -12,10 +12,12 @@
 <a href="https://discord.gg/https://discordapp.com/users/566774289525899305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/325680966976929793/" height="30" width="40" /></a>
 <br><br>
 
+<!--
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/325680966976929793?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/325680966976929793)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/325680966976929793)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/325680966976929793)](https://dev.discordprofiles.me/openspotify/325680966976929793)
+-->
 
 <details>
   <summary>Github Stats ⚡</summary>
