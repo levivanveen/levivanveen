@@ -13,4 +13,9 @@
 <br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levivanveen&label=Profile%20views&color=0e75b6&style=flat" alt="levivanveen" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levivanveen&show_icons=true&locale=en" alt="levivanveen" /></p>
+<p>
+    &nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=levivanveen&show_icons=true&count_private=true&locale=en&theme=synthwave" alt="levivanveen" />
+    &nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levivanveen" alt="levivanveen" />
+</p>
