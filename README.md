@@ -22,8 +22,8 @@
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=levivanveen&count_private=true&theme=synthwave&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levivanveen&card_width=500&theme=synthwave)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=levivanveen&count_private=true&theme=synthwave&line_height=20&include_all_commits=true)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levivanveen&card_width=500&theme=synthwave&layout=compact)</a>
 </details>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levivanveen&label=Profile%20views&color=0e75b6&style=flat" alt="levivanveen" /> </p>
